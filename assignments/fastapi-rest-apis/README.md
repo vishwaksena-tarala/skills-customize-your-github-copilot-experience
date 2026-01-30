@@ -43,19 +43,19 @@ Completed program should:
 - Validate required fields using Pydantic types (e.g., `str`, `int`).
 - Return structured JSON responses with appropriate status codes.
 - Include at least one example request and response in a code block, such as:
-	```http
-	POST /items
-	Content-Type: application/json
+  ```http
+  POST /items
+  Content-Type: application/json
 
-	{
-		"name": "Read a book",
-		"priority": 2
-	}
-	```
-	```json
-	{
-		"id": 1,
-		"name": "Read a book",
-		"priority": 2
-	}
-	```
+  {
+    "name": "Read a book",
+    "priority": 2
+  }
+  ```
+  ```json
+  {
+    "id": 1,
+    "name": "Read a book",
+    "priority": 2
+  }
+  ```

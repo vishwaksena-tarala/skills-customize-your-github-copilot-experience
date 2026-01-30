@@ -41,6 +41,13 @@
       ]
     },
     {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Designing and implementing RESTful APIs with FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-02-06"
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
